@@ -7,7 +7,7 @@ body {
 
 header {
     background: #333;
-    color: #fff;
+    color: #blue;
     padding: 10px 0;
     text-align: center;
 }
@@ -23,7 +23,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #blue;
     text-decoration: none;
 }
 
@@ -39,5 +39,5 @@ footer {
     text-align: center;
     padding: 10px 0;
     background: #333;
-    color: #fff;
+    color: #blue;
 }
